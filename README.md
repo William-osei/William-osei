@@ -106,8 +106,8 @@
 
 **Tech Stack:** `HTML5` `CSS3` `JavaScript ES6+` `Chart.js` `Font Awesome`
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://william-osei.github.io/data-dashboard)
-[![Repository](https://img.shields.io/badge/📁_Repository-2196F3?style=for-the-badge)](https://github.com/William-osei/data-dashboard)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://william-osei.github.io/data-analysis-dashboard)
+[![Repository](https://img.shields.io/badge/📁_Repository-2196F3?style=for-the-badge)](https://github.com/William-osei/data-analysis-dashboard)
 
 </td>
 <td width="50%">
