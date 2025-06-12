@@ -96,12 +96,15 @@
 <td width="50%">
 
 ### 📊 Data Analysis Dashboard
-**Interactive data visualization platform**
-- Real-time data processing and filtering
-- Multiple chart types with Chart.js
-- CSV export and responsive design
+**Advanced interactive data visualization platform**
+- 📈 Multiple chart types: Line, Bar, Pie, Doughnut charts
+- 🔍 Real-time filtering and search functionality
+- 📁 CSV upload/export with data validation
+- 📊 Statistical analysis with key metrics
+- 📱 Fully responsive design for all devices
+- ⚡ Fast performance with smooth animations
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Chart.js`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript ES6+` `Chart.js` `Font Awesome`
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://william-osei.github.io/data-dashboard)
 [![Repository](https://img.shields.io/badge/📁_Repository-2196F3?style=for-the-badge)](https://github.com/William-osei/data-dashboard)
