@@ -67,22 +67,28 @@
 
 ### 🧮 Smart Calculator Pro
 **Advanced scientific calculator with memory operations**
-- Built with vanilla JavaScript and Math.js
+- Built with vanilla JavaScript and PWA features
 - Keyboard support and responsive design
-- Complex mathematical functions
+- Memory operations and scientific functions
 
-**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Math.js`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `PWA`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://william-osei.github.io/smart-calculator-pro)
+[![Repository](https://img.shields.io/badge/📁_Repository-2196F3?style=for-the-badge)](https://github.com/William-osei/smart-calculator-pro)
 
 </td>
 <td width="50%">
 
 ### 🐍 Classic Snake Game
 **Smooth gameplay with progressive difficulty**
-- HTML5 Canvas for rendering
-- Score tracking and local storage
-- Collision detection algorithms
+- HTML5 Canvas and Python versions available
+- Score tracking with SQLite database
+- Advanced collision detection algorithms
 
-**Tech Stack:** `HTML5 Canvas` `JavaScript` `CSS3`
+**Tech Stack:** `HTML5 Canvas` `JavaScript` `Python` `SQLite`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://william-osei.github.io/snake-game)
+[![Repository](https://img.shields.io/badge/📁_Repository-2196F3?style=for-the-badge)](https://github.com/William-osei/snake-game)
 
 </td>
 </tr>
@@ -91,26 +97,41 @@
 
 ### 📊 Data Analysis Dashboard
 **Interactive data visualization platform**
-- Real-time data processing
-- Multiple chart types and filters
-- Export capabilities
+- Real-time data processing and filtering
+- Multiple chart types with Chart.js
+- CSV export and responsive design
 
-**Tech Stack:** `Python` `Pandas` `Matplotlib` `Streamlit`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `Chart.js`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://william-osei.github.io/data-dashboard)
+[![Repository](https://img.shields.io/badge/📁_Repository-2196F3?style=for-the-badge)](https://github.com/William-osei/data-dashboard)
 
 </td>
 <td width="50%">
 
 ### 🌡️ IoT Weather Station
-**Smart weather monitoring system**
-- Real-time sensor data collection
-- Web dashboard with API integration
+**Smart weather monitoring dashboard**
+- Real-time weather data simulation
+- Interactive charts and alert system
 - Mobile-responsive interface
 
-**Tech Stack:** `Arduino` `Sensors` `APIs` `Web Technologies`
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `APIs` `IoT Simulation`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge)](https://william-osei.github.io/iot-weather-station)
+[![Repository](https://img.shields.io/badge/📁_Repository-2196F3?style=for-the-badge)](https://github.com/William-osei/iot-weather-station)
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### 🚀 More Projects Available
+
+[![View All Projects](https://img.shields.io/badge/🔍_View_All_Projects-FF9800?style=for-the-badge&logo=github)](https://github.com/William-osei?tab=repositories)
+[![Portfolio Website](https://img.shields.io/badge/🌐_Full_Portfolio-E91E63?style=for-the-badge&logo=internetexplorer)](https://william-osei.github.io/portfolio)
+
+</div>
 
 ---
 
