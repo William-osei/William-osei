@@ -1,10 +1,10 @@
-# William Osei Aborah
+# William
 
-Computer Engineering Student at KNUST, Ghana
+Computer Engineering 
 
 ## About Me
 
-I'm a Computer Engineering student at Kwame Nkrumah University of Science and Technology (KNUST) with a passion for software development. Currently learning web development fundamentals and exploring different programming languages.
+I'm a Computer Engineering student with a passion for software development. Currently learning web development fundamentals and exploring different programming languages.
 
 ## Skills & Technologies
 
